@@ -10,4 +10,4 @@ The training data is presented in 15 features, scaled up to 120 with simple feat
 
 
 <img src="http://i.imgur.com/TWjwvGb.png" />
-<i>The graph above shows the resulting AUC's after each epoch of training a deep neural network, consisting of 8 highway layers, and built using the Lasange library for Python. The maximum AUC is ~54.5%, and is achieved after 12 iterations.</i>
+<i>The graph above shows the resulting AUC's after each epoch of training <a href="https://github.com/KhaledSharif/numerai-scripts/blob/master/lasagne-script.py">a deep neural network</a>, consisting of 8 highway layers, and built using the Lasange library for Python. The maximum AUC is ~54.5%, and is achieved after 12 iterations.</i>
